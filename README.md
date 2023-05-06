@@ -15,7 +15,9 @@
   - [🛠 Built With React](#-built-with-react)
     - [Tech Stack Web Pack](#tech-stack-web-pack)
     - [Key Features ](#key-features-)
-  - [� Getting Started ](#-getting-started-)
+    
+  - [💻 Getting Started ](#-getting-started-)
+
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
