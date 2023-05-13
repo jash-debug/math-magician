@@ -43,3 +43,10 @@ button:focus {
 .special {
   background-color: #f5913e;
 }
+
+.quote {
+  background-color: #858694;
+  width: fit-content;
+  padding: 5px;
+  font-size: 20px;
+}

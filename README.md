@@ -15,9 +15,7 @@
   - [🛠 Built With React](#-built-with-react)
     - [Tech Stack Web Pack](#tech-stack-web-pack)
     - [Key Features ](#key-features-)
-    
   - [💻 Getting Started ](#-getting-started-)
-
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
@@ -147,7 +145,7 @@ You can deploy this project using:
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **[Make simple calculations]**
-- [ ] **[Read a random math-related quote]**
+- [ ] **[Read a random Fitness quote]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
