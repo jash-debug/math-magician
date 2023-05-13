@@ -144,8 +144,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Make simple calculations]**
-- [ ] **[Read a random Fitness quote]**
+- [ ] **[Add more routes]**
+- [ ] **[Improve on styling]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -1,5 +1,5 @@
 .App {
-  color: red;
+  color: #551a8b;
 }
 
 * {
@@ -8,6 +8,11 @@
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
+}
+
+body {
+  margin: 5%;
+  background-color: papayawhip;
 }
 
 #calculator {
@@ -22,7 +27,14 @@
   background-color: #858694;
   text-align: right;
   color: white;
-  font-size: larger;
+  font-size: x-large;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.screenvalue {
+  padding-right: 5px;
 }
 
 #numbers {
@@ -44,9 +56,28 @@ button:focus {
   background-color: #f5913e;
 }
 
-.quote {
-  background-color: #858694;
-  width: fit-content;
-  padding: 5px;
-  font-size: 20px;
+nav,
+header {
+  display: flex;
+  justify-content: space-between;
+  font-size: xx-large;
+}
+
+nav {
+  gap: 20px;
+}
+
+.quote,
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  height: 80vh;
+  font-size: x-large;
+}
+
+a {
+  text-decoration: none;
 }
